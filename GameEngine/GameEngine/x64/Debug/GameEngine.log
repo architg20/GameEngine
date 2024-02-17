@@ -1,0 +1,4 @@
+﻿  GameEngine.cpp
+D:\VS\GameEngine\GameEngine\GameEngine.cpp(166,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VS\GameEngine\GameEngine\GameEngine.cpp(175,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GameEngine.vcxproj -> D:\VS\GameEngine\x64\Debug\GameEngine.exe
